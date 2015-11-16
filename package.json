@@ -1,0 +1,11 @@
+{
+  "name": "nes-inmem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./lib/**/*.test.js"
+  },
+  "author": "rnsell",
+  "license": "MIT"
+}
